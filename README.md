@@ -1,6 +1,6 @@
 ## 👋 Hi There 👋
 ## ✨Welcome to My GitHub ✨
-I am Prakash Bahadur Singh pursuing a challanging and rewarding career in software development. I enjoy coding and always intersted in lerning new technology. I work with JavaScript and NodeJS for the full stack development and interested in working on Open Source projects or anything interesting that is within my skill set.
+I am Prakash Bahadur Singh pursuing a challanging and rewarding career in software development. I enjoy coding and always intersted in lerning new technology. I work with JavaScript(React.js) and NodeJS for the full stack development and interested in working on Open Source projects or anything interesting that is within my skill set.
 #### Key Skils
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
